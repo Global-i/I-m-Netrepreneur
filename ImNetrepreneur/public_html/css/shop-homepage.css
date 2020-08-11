@@ -1,0 +1,39 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/templates/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.style-jhip48vtline {
+    border-left: 4px solid rgba(0, 46, 93, 1);
+    height: 100%;
+}
+.style-jhip48vt[data-is-responsive=false] .style-jhip48vtline {
+    margin-left: -2px;
+    width: 100%;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(20%);
+}
+
+#news {
+    color: white;
+}
+
+#news h5 {
+    font-family: fantasy;
+}
+
+.head h3 {
+    color: #2b53c2;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
